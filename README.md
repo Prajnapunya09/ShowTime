@@ -12,7 +12,7 @@ This project is beginner-friendly and demonstrates the use of **HTML structure, 
 
 ---
 
-## ✨ Features  
+## ✨  Features  
 - 🎥 Attractive movie showcase layout  
 - 🍿 "Latest" and "Trending" sections with auto-scrolling effect  
 - 📺 Embedded YouTube trailers using `<iframe>`  
