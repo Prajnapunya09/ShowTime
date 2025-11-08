@@ -1,4 +1,4 @@
-# 🎬  MovieVerse  
+#  🎬  MovieVerse  
 
 ## 📖 About the Project  
 **MovieVerse** is a simple front-end project that showcases the latest, trending, and watchlist movies using HTML and CSS.  
