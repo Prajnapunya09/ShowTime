@@ -21,6 +21,6 @@ This project is beginner-friendly and demonstrates the use of **HTML structure, 
 
 ---
 
-##  🛠️  Tech Stack  
+##   🛠️  Tech Stack  
 - **HTML**  
 - **CSS**  
