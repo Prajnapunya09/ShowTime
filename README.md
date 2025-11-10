@@ -15,7 +15,7 @@ This project is beginner-friendly and demonstrates the use of **HTML structure, 
 ##  ✨  Features  
 -  🎥 Attractive movie showcase layout  
 -  🍿 "Latest" and "Trending" sections with auto-scrolling effect  
-- 📺 Embedded YouTube trailers using `<iframe>`  
+-  📺 Embedded YouTube trailers using `<iframe>`  
 - ⭐ Separate **Watchlist** section  
 - 🌙 Dark theme with modern design  
 
