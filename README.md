@@ -1,7 +1,7 @@
 #  🎬 MovieVerse  
 
 ## 📖 About the Project  
-**MovieVerse** is a simple front-end project that showcases the latest, trending, and watchlist movies using HTML and CSS.  
+ **MovieVerse** is a simple front-end project that showcases the latest, trending, and watchlist movies using HTML and CSS.  
 It includes sections for:  
 - A navigation bar with quick links  
 - A hero banner with a featured movie  
